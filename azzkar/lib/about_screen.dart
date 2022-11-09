@@ -42,7 +42,7 @@ class _AboutScreenState extends State<AboutScreen> {
         )),
       ),
 
-      body: Center(child: Text(massage)),
+      body: Center(child: Text('مسبحة')),
     );
   }
 }
